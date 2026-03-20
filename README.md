@@ -16,22 +16,28 @@ ShiftOne is a full-stack Shift Management application built to track and manage 
 
 ### Login
 
-![login](login.png)
+<img width="1920" height="918" alt="login" src="https://github.com/user-attachments/assets/a0cf933e-ffa7-4c3b-af57-8a1755a8796f" />
 
 ### Admin
 
-![admin-home](admin-1.png)
-![admin-enroll](admin-2.png)
+<img width="1920" height="918" alt="admin-1" src="https://github.com/user-attachments/assets/b27d5c6a-77a2-457b-a743-96b995a2e7f6" />
+
+<img width="1920" height="918" alt="admin-2" src="https://github.com/user-attachments/assets/39d722e5-27cd-4c89-a49e-78d73595de27" />
+
 
 ### Worker
 
-![worker-home](worker-1.png)
-![worker-history](worker-2.png)
+<img width="1920" height="918" alt="worker-1" src="https://github.com/user-attachments/assets/8a746d6f-d34a-42d1-88c0-eed22f09643e" />
+
+<img width="1920" height="918" alt="worker-2" src="https://github.com/user-attachments/assets/10766d66-1e57-42d3-a6f2-7e3e67adc7c3" />
+
 
 ### Supervisor
 
-![supervisor-home](supervisor-1.png)
-![supervisor-records](supervisor-2.png)
+<img width="1920" height="918" alt="supervisor-1" src="https://github.com/user-attachments/assets/612625ac-be0d-41dc-a770-da2fc8615031" />
+
+<img width="1920" height="918" alt="supervisor-2" src="https://github.com/user-attachments/assets/99d5b86b-6cc0-4cb6-8feb-4b350596a681" />
+
 
 ## Project Links
 
